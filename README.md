@@ -11,7 +11,7 @@
   - [Linkedin](https://www.linkedin.com/in/martin-ernesto-bandoni-b87339199)
     
   <p align="left">
-      <a href="https://www.instagram.com/bandonimartin" target="_blank" rel="noreferrer"><img src="../Imagenes/instagram.svg" alt="Instagram" width="45px"></a>
+      <a href="https://www.instagram.com/bandonimartin" target="_blank" rel="noreferrer"><img src="./Instagram.svg" alt="Instagram" width="45px"></a>
   </p>
 
     
